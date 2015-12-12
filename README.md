@@ -3,7 +3,7 @@ Ejemplo de documentación para la realización de un proyecto. Esta documentaci�
 #Autores
 + Miguel Eduardo Coronel Segura
 + Jahzeel Jesús Coss Lara
-+ Hidalog José Fernández Pech
++ Hidalgo José Fernández Pech
 + Amir Jesús González Eescalante
 + Juan Carlos Peña Moreno
 + Gabriel Daniel Rendón Nadal
